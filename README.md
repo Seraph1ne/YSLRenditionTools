@@ -10,9 +10,6 @@
 - 自定义MIDI数据
 
 ## 软件界面
-主页
-
-![image](https://github.com/user-attachments/assets/9bbab5a8-6632-43d5-be7d-ebd6bf51ac71)
 
 燕云笙歌
 
