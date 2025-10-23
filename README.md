@@ -21,3 +21,6 @@
 程序设置
 
 ![image](https://github.com/user-attachments/assets/32d1cdee-3d3c-4b9e-9d14-8165df628518)
+
+## 其它
+燕云笙歌是由MIDI事件驱动的，所以需要自行下载MIDI文件用于播放、演奏。你可以在[MidiShow](https://www.midishow.com/)中查找并下载想演奏的歌曲MIDI文件。随后在工具的设置页面中的音乐路径处右键添加路径，将存放MIDI文件的文件夹添加至路径列表中，之后在燕云笙歌界面处刷新后即可进行演奏。
